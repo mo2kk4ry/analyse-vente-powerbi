@@ -126,4 +126,4 @@ Pourcentage commandes annulées =
 
 ## 📄 Licence
 
-Ce projet est réalisé à des fins éducatives uniquement.
+Projet personnel réalisé en suivant un tutoriel YouTube.
